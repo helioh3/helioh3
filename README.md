@@ -1,4 +1,4 @@
- # 😊 Hi, my name is Helio Brito ✌️
+ # 😊 Hi, my name is Helio Brito. I'm Junior Developer ✌️
 
 <img src="https://github-readme-stats.vercel.app/api?username=helioh3&show_icons=true&count_private=true&theme=gruvbox" min-width="400px" max-width="400px" width="400px" align="right" />
 
