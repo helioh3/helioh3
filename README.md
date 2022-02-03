@@ -11,8 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP          42 mins         █████████████████████▓░░░   87.07 % 
-TypeScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-YAML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
