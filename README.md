@@ -11,8 +11,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 13 mins
-
 Markdown   13 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
